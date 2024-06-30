@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 haroldli/xiaoya-tvbox:latest
 bltavares/zerotier:latest
+docker.io/xhofe/alist:main
